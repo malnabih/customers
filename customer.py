@@ -51,7 +51,7 @@ print(tfish)
 fish = df.groupby(('Education')and('Year_Birth')).MntFishProducts.count()
 print(fish)
 
-
+n = df.corr()
 fish = df['Education'].value_counts()[:2]
 print(fish)
 
