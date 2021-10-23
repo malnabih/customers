@@ -52,12 +52,14 @@ fish = df.groupby(('Education')and('Year_Birth')).MntFishProducts.count()
 print(fish)
 
 n = df.corr()
+print(n)
 fish = df['Education'].value_counts()[:2]
 print(fish)
 
 
 
 
+DESKTOP-NBKQB4M MINGW64 /e/python/projects/data analysis/01 customers (master)
 
 
 
