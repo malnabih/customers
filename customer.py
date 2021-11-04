@@ -5,6 +5,7 @@ import time
 plt.figure(figsize=(9,15))
 # Select data folder
 data_folder = 'data/'
+# Created by (Mahmoud Alnabih)
 
 # import folder to pandas dataFarame
 file = data_folder+'customer_temp.csv'
